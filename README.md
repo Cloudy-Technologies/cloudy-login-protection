@@ -40,7 +40,7 @@ The idle user logout feature will:
 - Work in both admin and frontend areas
 
 
-### reCAPTCHA
+#### reCAPTCHA
 reCAPTCHA is a security tool that verifies users are human to prevent automated bot attacks.
 
 To set up reCAPTCHA:
